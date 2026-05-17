@@ -21,3 +21,6 @@ A modern GST Calculator made using Python and Tkinter.
 
 ```bash
 python app.py
+## Screenshot
+
+![GST App](screenshot.png)

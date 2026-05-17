@@ -1,0 +1,7 @@
+===== GST BILL =====
+
+Date & Time: 17-05-2026 02:41:40 PM
+Price: 45.0
+GST %: 5.0
+GST Amount: 2.25
+Final Price: 47.25
